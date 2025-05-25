@@ -83,7 +83,7 @@ I'll create a simple public GitHub repo with sample pictures. For example:
 
 ```bash
 cd ../images
-git clone https://github.com/YOUR_USERNAME/nebatech-images.git temp
+git clone https://github.com/IAmAbdulHafiz/images.git temp
 mv temp/* .  # Move all images to the current directory
 rm -rf temp  # Clean up temporary folder
 ```
