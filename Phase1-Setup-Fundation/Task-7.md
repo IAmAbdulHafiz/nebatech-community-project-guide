@@ -1,5 +1,5 @@
 
-## Task 7 – Git Bash Practice (Phase 1 Continued)**
+## Task 7 – Git Bash Practice (Phase 1 Continued)
 
 **Objective:** Use Git commands in **Git Bash** to manage files and directories like a real developer!
 
